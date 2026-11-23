@@ -1,4 +1,3 @@
-<img width="1898" height="942" alt="Screenshot 2026-11-23 202231" src="https://github.com/user-attachments/assets/6ef28617-8c36-4dce-9f8b-d2e69177056e" />markdown
 # 🍽️ Restaurant Review Comparison — Ollama + Qwen2.5:3b
 
 An AI-powered restaurant review analysis and comparison application built with **Python**, **Streamlit**, and **Ollama**. This tool analyzes customer feedback and generates side-by-side comparisons to help users evaluate two restaurants quickly.
