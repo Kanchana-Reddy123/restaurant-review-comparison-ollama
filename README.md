@@ -15,9 +15,14 @@ An AI-powered restaurant review analysis and comparison application built with *
 ---
 
 ## App Screenshot
--<img width="1898" height="942" alt="Screenshot 2026-11-23 202231" src="https://github.com/user-attachments/assets/8175bd54-c0a1-4cd7-91f9-9d3721f84636" />
--<img width="1898" height="942" alt="Screenshot 2026-11-23 202231" src="https://github.com/user-attachments/assets/db018257-cfdb-4e2e-8cac-cdf7f08e7860" />
--<img width="1898" height="942" alt="Screenshot 2026-11-23 202231" src="https://github.com/user-attachments/assets/066edc12-3f1e-462e-a8c1-12e1376f9c52" />
+### 1. Pasting Reviews Of Restaurant A & B
+<img width="1900" height="807" alt="Screenshot1" src="https://github.com/user-attachments/assets/0fccffe6-2e7e-4326-b485-23640f110561" />
+
+### 2.Compares Reviews of Restaurant A & B
+<img width="1897" height="942" alt="Screenshot 2" src="https://github.com/user-attachments/assets/fa1d4d08-25b7-4a26-93ce-62c60389125f" />
+
+### 2.Comparison Result
+<img width="1897" height="957" alt="restaurant review comparison screenshot3" src="https://github.com/user-attachments/assets/42832d41-a24f-4aa9-99ec-39dc3adb5905" />
 
 ---
 
